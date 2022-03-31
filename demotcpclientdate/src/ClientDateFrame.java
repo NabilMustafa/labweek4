@@ -10,7 +10,7 @@ import javax.swing.JPanel;
  * This class represent the window for the client side TCP application.
  * It display the date retrieve from the server.
  * 
- * @author emalianakasmuri
+ * @author dremalianakasmuri
  *
  */
 public class ClientDateFrame extends JFrame {
