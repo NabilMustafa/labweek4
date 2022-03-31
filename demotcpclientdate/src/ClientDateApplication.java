@@ -8,7 +8,7 @@ import java.net.UnknownHostException;
 /**
  * This method launch the frame and manage the connection to the server.
  * 
- * @author dremalianakasmuri
+ * @author emalianakasmuri
  *
  */
 
